@@ -1,6 +1,6 @@
 The SDSS--2MASS--WISE Ten Dimensional Stellar Color Locus
 Davenport, Ivezic, Becker, Ruan, Hunt-Walker, Covey, Lewis, AlSayyad, and Anderson 
-MNRAS, 2014
+ (Davenport et al. 2014, MNRAS, 440, 3430) 
 
 Table 2:
 The mid-IR color locus as a function of g-i color. Values of -99 indicate no locus defined.
