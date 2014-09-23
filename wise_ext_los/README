@@ -17,7 +17,8 @@ max l = [55,75,100,115,135,155,181,195,210,231,360,360,360]
 min b = [ 0, 0,  0,  0,  0,  0,  0,  0,  0,  0,  0, 30, 55]
 max b = [25,25, 25, 25, 25, 25, 25, 25, 25, 25, 30, 65, 90]
 
-Note the min/max l values are approximate, as each region is actually limited by SEGUE stripe boundaries.
+Note 1: the min/max l values are approximate, as each region is actually limited by SEGUE stripe boundaries.
 
-Note I include fits for W3, even though in the paper I only presented W1 and W2. I don't trust these W3 fits/errors, but I include them for completeness.
+Note 2: I include fits for W3, even though in the paper I only presented W1 and W2. I don't trust these W3 fits/errors, but I include them for completeness.
 
+Note 3: In Figure 8 of the paper, the 11th and 12th files are switched, causing an error in the figure. The values in the *.dat files in this repository are correct, however.
